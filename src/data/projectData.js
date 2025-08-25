@@ -11,7 +11,7 @@ export const projects = [
       es: "Un sitio web que explica qué es el cambio climático, sus causas, consecuencias y soluciones.",
     },
     image: "",   
-    liveSite: \
+    liveSite: \https://cambio-climatico-jade.vercel.app/
     githubRepo:  https://yatsibel.github.io/Cambio-Climatico/
   },
 ];
