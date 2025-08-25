@@ -2,7 +2,7 @@
 export const projects = [
   {
     id: 1,
-    title: {
+    title: {Cambio Climatico
       en: "",
       es: "",
     },
